@@ -5,8 +5,9 @@ This is a coding challenge designed to test your ability to analyze data from a 
 
 You may do this at your own pace at home. The time you should spend on this task is 3 hours. The scope of the challenge is designed to take much more than 3 hours and it is normal to not have finished your task by the end of the time limit. We recommend breaking down the task and prioritize what you can do within the time. We will schedule a call with Bryan where we explore up to where you stopped and your thought processes!
 
-# Your task
-Colorectal cancer remains a leading cause of cancer-related morbidity and mortality worldwide, making optimal treatment decisions crucial for improving patient outcomes. In this coding task, we focus on two major clinical questions related to colorectal cancer management:
+# Your task 
+**PICK ONE OF TWO**
+Colorectal cancer remains a leading cause of cancer-related morbidity and mortality worldwide, making optimal treatment decisions crucial for improving patient outcomes. In this coding task, you tackle either **one of two** major clinical questions related to colorectal cancer management:
 
 **Question 1: Is the sequence of FOLFOX followed by FOLFIRI better than alternating FOLFOX and FOLFIRI? for Stage 4 Colorectal Cancer Patients?**
 There are two first-line chemotherapy treatment options for Stage IV colorectal cancer (FOLFOX and FOLFIRI). Clinicians believe their efficacy is equivalent and take a shot in the dark, but we believe there is an optimal treatment choice for patients based on their features (note: this particular dataset size might not be sufficient to show this). Develop model(s) to investigate the differential effectiveness of the two main chemotherapy treatments on stage IV colorectal cancer patients based on their features.
