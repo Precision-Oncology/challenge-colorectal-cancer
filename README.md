@@ -6,15 +6,12 @@ This is a coding challenge designed to test your ability to analyze data from a 
 You may do this at your own pace at home. The time you should spend on this task is 3 hours. The scope of the challenge is designed to take much more than 3 hours and it is normal to not have finished your task by the end of the time limit. We recommend breaking down the task and prioritize what you can do within the time. We will schedule a call with Bryan where we explore up to where you stopped and your thought processes!
 
 # Your task
-Colorectal cancer remains a leading cause of cancer-related morbidity and mortality worldwide, making optimal treatment decisions crucial for improving patient outcomes. In this coding task, we focus on three major clinical questions related to colorectal cancer management:
+Colorectal cancer remains a leading cause of cancer-related morbidity and mortality worldwide, making optimal treatment decisions crucial for improving patient outcomes. In this coding task, we focus on two major clinical questions related to colorectal cancer management:
 
 **Question 1: Is the sequence of FOLFOX followed by FOLFIRI better than alternating FOLFOX and FOLFIRI? for Stage 4 Colorectal Cancer Patients?**
 There are two first-line chemotherapy treatment options for Stage IV colorectal cancer (FOLFOX and FOLFIRI). Clinicians believe their efficacy is equivalent and take a shot in the dark, but we believe there is an optimal treatment choice for patients based on their features (note: this particular dataset size might not be sufficient to show this). Develop model(s) to investigate the differential effectiveness of the two main chemotherapy treatments on stage IV colorectal cancer patients based on their features.
 
-**Question 2:Is Surgery always the right choice? Or might a less invasive therapy suffice?**
-In colorectal cancer, clinicians often default to surgical resection, yet some patients could be spared surgery if a less invasive therapy can achieve comparable outcomes. Develop predictive models to help identify which patients truly need surgery versus those who might benefit from more conservative interventions, minimizing overtreatment and improving overall patient outcomes.
-
-**Question 3: Which Stage I-III Colorectal Cancer Patients are at High Risk of Recurrence After Surgery or Radiation Therapy and Require Adjuvant Chemotherapy?**
+**Question 2: Which Stage I-III Colorectal Cancer Patients are at High Risk of Recurrence After Surgery or Radiation Therapy and Require Adjuvant Chemotherapy?**
 There are standard curative treatments for early-stage (I-III) colorectal cancer, including surgery and radiation therapy. However, identifying which patients might experience disease recurrence and would most benefit from subsequent adjuvant chemotherapy is challenging. Identify biomarkers (e.g., MMR status is known) to enable clinicians to make personalized decisions about recommending adjuvant chemotherapy, minimizing unnecessary treatment for low-risk patients while improving outcomes for those at high risk of relapse.
 
 ## Instructions and Tips
