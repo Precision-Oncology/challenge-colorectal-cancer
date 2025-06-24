@@ -1,7 +1,7 @@
 # Challenge: Colorectal Cancer Analysis
 
 ## Overview
-This is a coding challenge designed to test your ability to analyze data from a real-world colorectal cancer dataset based on the real-world domain we deal with at Radical Health. The dataset contains longitudinal clinical, genomic, and treatment data for all cancer patients. 
+This is a coding challenge designed to test your ability to analyze data from a real-world colorectal cancer dataset based on the real-world domain we deal with at Radical Health. The dataset contains longitudinal clinical, genomic, and treatment data for all cancer patients. Time-series data is included.
 
 You may do this at your own pace at home. The time you should spend on this task is 3 hours. The scope of the challenge is designed to take more than 3 hours and it is normal to not have finished your task by the end of the time limit. We recommend breaking down the task and prioritize what you can do within the time. We will schedule a call with Bryan where we explore up to where you stopped and your thought processes!
 
